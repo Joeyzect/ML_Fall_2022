@@ -1,0 +1,802 @@
+txtarm,q5_1,q6_1,q7_1,q8_1,q10_1,q11_1,q13_1,q14_1,q17_1,q1_2,q3_2,q4_2,q5_2,q5a_2,q6_2,q7_2,q8_2,q9_2,q10_2,pphloss,q2_4,activebldcontrol,overallbld
+40 IU oxy IV,31.0,no education,married/cohabiting,8.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,850.0,good,active bleeding controlled,1150.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,13.7,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+800mcg miso SL,46.0,no education,married/cohabiting,6.0,housewife,other,41.0,yes,11.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1700.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,skilled labor,other,39.0,no,9.5,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1500.0
+40 IU oxy IV,36.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,11.2,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1500.0
+40 IU oxy IV,22.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,36.0,no,9.7,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1800.0
+40 IU oxy IV,22.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.9,no,yes,no,no,no,yes,no,yes,no,no,700.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,31.0,primary,married/cohabiting,0.0,unskilled labor,unskilled labor,36.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1500.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,unskilled labor,unskilled labor,38.5,no,10.9,no,yes,no,no,no,yes,no,yes,yes,no,800.0,good,active bleeding controlled,1100.0
+800mcg miso SL,26.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,11.6,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,23.0,primary,married/cohabiting,0.0,unskilled labor,unskilled labor,38.0,no,10.3,no,yes,no,no,no,yes,no,no,no,no,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,32.0,primary,married/cohabiting,3.0,housewife,unskilled labor,40.0,no,13.8,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,32.0,primary,married/cohabiting,1.0,skilled labor,skilled labor,38.0,no,10.7,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,15.0,primary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,10.8,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1300.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,11.4,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,28.0,secondary,married/cohabiting,0.0,skilled labor,unskilled labor,41.0,no,10.3,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,22.0,secondary,married/cohabiting,0.0,unskilled labor,skilled labor,40.0,no,12.0,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1450.0
+800mcg miso SL,23.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.8,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1300.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,40.0,no,10.4,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,20.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.2,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,25.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.9,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,20.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,39.0,no,14.4,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1200.0
+800mcg miso SL,27.0,secondary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,7.9,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,19.0,no education,widowed/divorced,0.0,housewife,unskilled labor,40.0,no,13.0,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1200.0
+800mcg miso SL,24.0,secondary,married/cohabiting,0.0,housewife,skilled labor,38.5,no,9.8,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,24.0,primary,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,12.7,no,yes,no,no,no,yes,no,yes,yes,no,750.0,fair,active bleeding controlled,1500.0
+40 IU oxy IV,32.0,primary,married/cohabiting,1.0,skilled labor,skilled labor,38.0,yes,10.8,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,32.0,secondary,married/cohabiting,1.0,unskilled labor,unskilled labor,40.0,no,13.4,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,18.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,9.7,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,29.0,secondary,married/cohabiting,2.0,housewife,skilled labor,40.0,no,14.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1650.0
+800mcg miso SL,29.0,primary,married/cohabiting,1.0,unskilled labor,unskilled labor,39.0,no,11.1,no,yes,no,no,no,yes,no,no,yes,yes,700.0,good,active bleeding controlled,1200.0
+800mcg miso SL,23.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,9.7,no,yes,no,no,no,yes,no,yes,no,no,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,23.0,primary,married/cohabiting,0.0,housewife,unskilled labor,38.5,no,11.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,760.0
+40 IU oxy IV,26.0,university or higher,married/cohabiting,1.0,skilled labor,skilled labor,40.0,no,11.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1600.0
+40 IU oxy IV,26.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,13.8,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,880.0
+40 IU oxy IV,27.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,13.0,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,39.5,no,14.6,no,yes,no,no,no,yes,no,yes,no,no,700.0,good,active bleeding controlled,1050.0
+800mcg miso SL,21.0,secondary,married/cohabiting,1.0,unskilled labor,unskilled labor,38.5,no,9.9,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,22.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,10.9,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,780.0
+40 IU oxy IV,24.0,primary,married/cohabiting,1.0,unskilled labor,skilled labor,40.0,no,12.2,no,yes,no,no,no,yes,no,no,no,no,600.0,good,active bleeding controlled,640.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,39.0,no,13.8,no,yes,no,no,no,yes,no,yes,yes,no,750.0,good,active bleeding controlled,1500.0
+40 IU oxy IV,18.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,34.0,secondary,married/cohabiting,2.0,other,skilled labor,40.0,yes,11.1,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1100.0
+800mcg miso SL,21.0,primary,married/cohabiting,0.0,housewife,unskilled labor,37.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,23.0,secondary,married/cohabiting,2.0,skilled labor,skilled labor,39.0,no,15.9,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,1800.0
+40 IU oxy IV,20.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,13.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,39.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,9.9,no,no,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,19.0,secondary,married/cohabiting,0.0,unskilled labor,not applicable,39.5,no,13.1,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,40.5,no,12.4,no,yes,no,no,no,yes,no,no,no,no,750.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,20.0,secondary,married/cohabiting,0.0,skilled labor,salaried professional,38.0,no,11.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,26.0,primary,married/cohabiting,3.0,housewife,skilled labor,39.0,no,14.3,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,770.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,1.0,housewife,skilled labor,43.0,no,12.1,no,yes,no,no,no,yes,no,yes,yes,no,650.0,good,active bleeding controlled,700.0
+40 IU oxy IV,24.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,39.5,no,12.4,no,yes,no,no,no,yes,no,no,no,no,700.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,27.0,secondary,married/cohabiting,1.0,unskilled labor,skilled labor,40.0,no,13.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,38.5,no,11.2,no,yes,no,no,no,yes,no,no,no,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,27.0,secondary,married/cohabiting,0.0,skilled labor,unskilled labor,39.0,no,11.9,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,880.0
+40 IU oxy IV,30.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,13.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,18.0,secondary,married/cohabiting,0.0,housewife,skilled labor,40.5,no,11.1,no,yes,no,no,no,yes,no,no,no,no,700.0,fair,active bleeding controlled,750.0
+40 IU oxy IV,31.0,primary,married/cohabiting,1.0,unskilled labor,unskilled labor,40.0,no,11.9,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,31.0,secondary,married/cohabiting,0.0,skilled labor,unskilled labor,39.0,no,10.1,no,yes,no,no,no,yes,no,yes,yes,no,600.0,good,active bleeding controlled,800.0
+800mcg miso SL,26.0,primary,married/cohabiting,1.0,unskilled labor,unskilled labor,37.0,no,11.2,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,23.0,no education,married/cohabiting,0.0,skilled labor,other,38.0,no,13.0,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,950.0
+40 IU oxy IV,25.0,primary,married/cohabiting,0.0,skilled labor,unskilled labor,39.0,no,10.9,no,yes,no,no,no,yes,no,yes,yes,no,600.0,good,active bleeding controlled,700.0
+800mcg miso SL,26.0,secondary,married/cohabiting,1.0,skilled labor,skilled labor,40.0,no,8.1,no,yes,no,no,no,yes,no,no,no,no,700.0,poor,active bleeding controlled,800.0
+800mcg miso SL,27.0,primary,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,12.6,no,yes,no,no,no,yes,no,no,no,no,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,28.0,primary,married/cohabiting,1.0,unskilled labor,unskilled labor,40.0,no,15.0,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,700.0
+800mcg miso SL,24.0,primary,married/cohabiting,1.0,unskilled labor,unskilled labor,39.0,no,12.7,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1400.0
+40 IU oxy IV,43.0,primary,married/cohabiting,3.0,housewife,unskilled labor,40.0,no,10.1,no,yes,no,no,no,yes,no,yes,no,no,700.0,good,active bleeding controlled,1400.0
+40 IU oxy IV,27.0,primary,married/cohabiting,0.0,unskilled labor,skilled labor,40.0,no,13.8,no,yes,no,no,no,yes,no,yes,yes,no,900.0,good,active bleeding controlled,1200.0
+800mcg miso SL,35.0,primary,married/cohabiting,2.0,housewife,unskilled labor,39.0,yes,12.1,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bld not controlled,1800.0
+800mcg miso SL,37.0,secondary,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,11.7,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1100.0
+800mcg miso SL,21.0,primary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,12.1,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,1300.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,unskilled labor,37.0,no,11.6,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1250.0
+800mcg miso SL,26.0,secondary,married/cohabiting,0.0,unskilled labor,skilled labor,41.5,no,13.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,800.0
+800mcg miso SL,35.0,secondary,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,14.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,1050.0
+40 IU oxy IV,37.0,primary,married/cohabiting,2.0,housewife,skilled labor,40.0,no,14.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,750.0
+40 IU oxy IV,22.0,primary,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,13.3,no,yes,no,no,no,yes,no,no,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,19.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,40.0,no,11.4,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1450.0
+800mcg miso SL,23.0,primary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,12.7,no,yes,no,no,no,yes,no,yes,yes,no,800.0,good,active bld not controlled,1200.0
+40 IU oxy IV,28.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,39.0,no,12.4,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,17.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,23.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,poor,active bleeding controlled,850.0
+40 IU oxy IV,24.0,secondary,married/cohabiting,1.0,housewife,skilled labor,37.0,no,11.9,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1500.0
+40 IU oxy IV,31.0,secondary,married/cohabiting,2.0,unemployed,skilled labor,38.0,no,13.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1500.0
+800mcg miso SL,26.0,primary,married/cohabiting,2.0,housewife,unskilled labor,40.5,yes,12.7,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,29.0,secondary,married/cohabiting,1.0,skilled labor,skilled labor,40.0,no,12.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,780.0
+800mcg miso SL,23.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,38.0,no,13.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,27.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,11.3,no,yes,no,no,no,yes,no,yes,no,no,700.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,36.0,secondary,married/cohabiting,1.0,unskilled labor,skilled labor,38.0,no,12.1,no,yes,no,no,yes,yes,no,no,no,no,700.0,good,active bleeding controlled,1800.0
+800mcg miso SL,36.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1700.0
+800mcg miso SL,28.0,primary,married/cohabiting,0.0,skilled labor,unskilled labor,39.0,no,10.7,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,780.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,skilled labor,unskilled labor,40.0,no,10.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1200.0
+800mcg miso SL,25.0,primary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,13.9,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,28.0,secondary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.9,no,yes,no,no,yes,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,29.0,primary,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,13.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,17.0,no education,married/cohabiting,0.0,housewife,other,40.0,no,10.6,no,yes,no,no,no,yes,no,yes,yes,yes,1300.0,fair,active bld not controlled,2100.0
+800mcg miso SL,21.0,primary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,13.8,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,890.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,yes,11.4,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,25.0,secondary,married/cohabiting,0.0,unskilled labor,skilled labor,36.0,no,10.6,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,12.4,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,26.0,primary,married/cohabiting,1.0,unskilled labor,skilled labor,39.0,no,12.0,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,22.0,primary,married/cohabiting,0.0,unskilled labor,student,40.0,no,12.7,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1700.0
+800mcg miso SL,28.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,38.0,no,14.5,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,700.0
+40 IU oxy IV,32.0,secondary,married/cohabiting,0.0,skilled labor,unskilled labor,40.0,no,12.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,27.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,29.0,primary,married/cohabiting,2.0,unskilled labor,unskilled labor,40.0,no,13.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,24.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,39.0,no,12.8,no,yes,no,no,no,yes,no,yes,no,yes,700.0,good,active bleeding controlled,950.0
+40 IU oxy IV,27.0,secondary,married/cohabiting,1.0,skilled labor,skilled labor,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,2.0,unskilled labor,unskilled labor,38.0,no,10.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1050.0
+800mcg miso SL,23.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,41.0,no,13.9,no,yes,no,no,no,yes,no,yes,yes,yes,500.0,fair,active bleeding controlled,650.0
+800mcg miso SL,20.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,39.0,no,13.4,no,yes,no,no,no,yes,no,yes,yes,no,750.0,fair,active bleeding controlled,1300.0
+800mcg miso SL,28.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.5,no,11.8,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1400.0
+800mcg miso SL,23.0,secondary,married/cohabiting,1.0,skilled labor,unskilled labor,36.0,no,12.7,no,no,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,26.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,9.8,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,32.0,secondary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,no,650.0,good,active bleeding controlled,920.0
+800mcg miso SL,21.0,primary,married/cohabiting,1.0,unskilled labor,unskilled labor,40.0,no,9.8,no,yes,no,no,no,yes,no,no,no,no,700.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,29.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,27.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,41.0,no,13.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,850.0
+800mcg miso SL,27.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,12.7,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,27.0,primary,married/cohabiting,1.0,unskilled labor,unskilled labor,39.0,no,12.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,750.0
+800mcg miso SL,31.0,primary,married/cohabiting,1.0,unskilled labor,unskilled labor,40.0,no,11.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,800.0
+40 IU oxy IV,19.0,secondary,married/cohabiting,0.0,unskilled labor,skilled labor,40.0,no,13.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,34.0,secondary,married/cohabiting,1.0,skilled labor,skilled labor,40.0,no,13.3,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,780.0
+800mcg miso SL,17.0,no education,married/cohabiting,0.0,housewife,other,40.0,no,9.3,no,yes,no,no,no,yes,yes,yes,yes,yes,700.0,fair,active bleeding controlled,1460.0
+40 IU oxy IV,31.0,secondary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.6,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,19.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.5,no,13.0,no,yes,no,no,yes,yes,no,yes,yes,no,700.0,good,active bleeding controlled,770.0
+40 IU oxy IV,31.0,primary,married/cohabiting,1.0,skilled labor,unskilled labor,42.0,no,11.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,800.0
+800mcg miso SL,25.0,primary,married/cohabiting,1.0,housewife,unskilled labor,38.0,no,12.6,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,16.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,13.9,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,32.0,secondary,married/cohabiting,1.0,unemployed,unemployed,40.0,no,13.2,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1500.0
+800mcg miso SL,33.0,secondary,married/cohabiting,2.0,unskilled labor,unskilled labor,38.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,38.0,primary,married/cohabiting,1.0,housewife,unskilled labor,38.0,no,12.9,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,780.0
+40 IU oxy IV,30.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,13.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,23.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,20.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,39.0,no,12.3,no,yes,no,no,no,yes,no,no,no,no,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,28.0,primary,married/cohabiting,1.0,housewife,skilled labor,39.0,no,11.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,1.0,skilled labor,skilled labor,41.0,no,11.7,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,25.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,11.8,no,yes,no,no,yes,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,800.0
+800mcg miso SL,39.0,no education,married/cohabiting,5.0,housewife,other,42.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,poor,active bld not controlled,2000.0
+40 IU oxy IV,28.0,primary,married/cohabiting,1.0,skilled labor,unskilled labor,40.5,yes,11.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,800.0
+40 IU oxy IV,28.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,24.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,41.5,no,13.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,22.0,primary,married/cohabiting,0.0,housewife,skilled labor,36.0,no,12.3,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,750.0
+800mcg miso SL,30.0,secondary,married/cohabiting,2.0,unskilled labor,skilled labor,40.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,no,800.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,18.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,12.3,no,yes,no,no,yes,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,25.0,university or higher,married/cohabiting,1.0,housewife,salaried professional,38.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,20.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,yes,12.8,no,yes,no,no,no,yes,no,yes,yes,no,650.0,good,active bleeding controlled,800.0
+40 IU oxy IV,21.0,no education,married/cohabiting,0.0,housewife,other,38.0,no,8.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1600.0
+800mcg miso SL,24.0,secondary,married/cohabiting,0.0,skilled labor,salaried professional,40.0,no,11.1,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,27.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,10.3,no,yes,no,no,yes,yes,no,yes,yes,no,750.0,fair,active bleeding controlled,800.0
+800mcg miso SL,16.0,primary,married/cohabiting,0.0,housewife,other,41.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+40 IU oxy IV,24.0,primary,married/cohabiting,1.0,unskilled labor,skilled labor,40.0,no,12.2,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,31.0,no education,married/cohabiting,1.0,housewife,unskilled labor,36.0,no,8.4,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1100.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,39.0,no,13.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,36.0,secondary,married/cohabiting,1.0,unemployed,skilled labor,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,2300.0
+40 IU oxy IV,24.0,secondary,married/cohabiting,1.0,housewife,skilled labor,40.5,no,11.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,29.0,primary,married/cohabiting,0.0,skilled labor,salaried professional,40.0,no,14.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,29.0,primary,married/cohabiting,1.0,skilled labor,skilled labor,39.0,no,12.2,no,yes,no,no,no,yes,no,yes,yes,no,900.0,fair,active bleeding controlled,950.0
+40 IU oxy IV,17.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,37.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,750.0
+40 IU oxy IV,20.0,no education,married/cohabiting,1.0,housewife,unskilled labor,40.0,yes,12.1,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,fair,active bld not controlled,1200.0
+800mcg miso SL,28.0,secondary,married/cohabiting,0.0,housewife,salaried professional,38.0,no,12.9,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,21.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,38.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.8,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,780.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,housewife,skilled labor,41.0,no,11.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,skilled labor,unskilled labor,41.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,800.0
+800mcg miso SL,30.0,secondary,married/cohabiting,1.0,skilled labor,skilled labor,39.0,no,14.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,790.0
+800mcg miso SL,35.0,no education,married/cohabiting,6.0,housewife,unskilled labor,40.0,no,10.3,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,950.0
+40 IU oxy IV,19.0,secondary,married/cohabiting,0.0,skilled labor,unskilled labor,40.0,no,13.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,19.0,primary,married/cohabiting,0.0,skilled labor,unskilled labor,40.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,750.0
+800mcg miso SL,37.0,no education,married/cohabiting,2.0,housewife,unskilled labor,41.0,no,12.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,29.0,secondary,married/cohabiting,1.0,salaried professional,salaried professional,40.0,no,13.3,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,18.0,secondary,single,0.0,other,salaried professional,38.0,no,7.1,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1350.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,other,33.0,no,12.0,no,no,no,no,no,yes,no,yes,yes,yes,1250.0,good,active bleeding controlled,2250.0
+40 IU oxy IV,26.0,primary,married/cohabiting,1.0,housewife,unemployed,40.0,no,13.7,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,780.0
+800mcg miso SL,38.0,primary,married/cohabiting,3.0,housewife,unskilled labor,39.5,no,12.9,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,25.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,13.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,780.0
+40 IU oxy IV,31.0,secondary,married/cohabiting,1.0,skilled labor,skilled labor,38.0,no,13.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,22.0,secondary,married/cohabiting,0.0,skilled labor,unskilled labor,40.0,no,13.6,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,28.0,secondary,married/cohabiting,1.0,housewife,skilled labor,40.0,yes,11.6,no,yes,no,no,no,yes,no,yes,yes,yes,690.0,good,active bleeding controlled,1200.0
+800mcg miso SL,31.0,no education,married/cohabiting,5.0,housewife,other,41.0,yes,11.4,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,29.0,primary,married/cohabiting,2.0,housewife,other,40.0,no,13.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,800.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,38.0,no,14.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,26.0,other,married/cohabiting,0.0,housewife,other,40.0,no,11.2,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,poor,active bld not controlled,2100.0
+800mcg miso SL,28.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,12.8,no,yes,no,no,yes,yes,no,yes,no,no,850.0,fair,active bld not controlled,3000.0
+800mcg miso SL,17.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.5,no,12.9,no,yes,no,no,yes,yes,no,yes,yes,no,700.0,good,active bleeding controlled,730.0
+800mcg miso SL,23.0,no education,married/cohabiting,1.0,housewife,other,39.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,fair,active bld not controlled,1650.0
+800mcg miso SL,30.0,secondary,married/cohabiting,2.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,poor,active bld not controlled,1500.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,41.0,no,12.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,750.0
+800mcg miso SL,21.0,no education,married/cohabiting,1.0,housewife,unskilled labor,39.0,no,8.3,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,20.0,technical,single,0.0,student,skilled labor,40.0,no,9.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,38.0,primary,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,14.2,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,18.0,no education,married/cohabiting,0.0,housewife,other,38.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1400.0
+800mcg miso SL,35.0,no education,married/cohabiting,2.0,unskilled labor,skilled labor,40.0,yes,12.1,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,28.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,13.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,750.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,13.2,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,760.0
+800mcg miso SL,27.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,13.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,700.0
+800mcg miso SL,30.0,primary,married/cohabiting,2.0,housewife,unskilled labor,39.0,no,10.6,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+800mcg miso SL,39.0,no education,married/cohabiting,3.0,housewife,salaried professional,40.0,no,10.9,no,yes,no,no,no,yes,no,yes,yes,yes,950.0,fair,active bleeding controlled,1900.0
+40 IU oxy IV,30.0,primary,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,11.4,no,yes,no,no,no,yes,no,yes,no,yes,700.0,good,active bleeding controlled,950.0
+40 IU oxy IV,24.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,13.1,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,780.0
+40 IU oxy IV,18.0,no education,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,11.4,no,yes,no,yes,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,26.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,38.0,no,12.6,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bld not controlled,750.0
+40 IU oxy IV,16.0,secondary,married/cohabiting,0.0,student,other,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,23.0,technical,married/cohabiting,1.0,salaried professional,skilled labor,40.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,19.0,primary,married/cohabiting,0.0,housewife,other,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,900.0,good,active bleeding controlled,1400.0
+40 IU oxy IV,36.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,34.0,no education,married/cohabiting,1.0,housewife,other,40.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,28.0,no education,married/cohabiting,4.0,housewife,other,40.0,no,11.4,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,900.0
+40 IU oxy IV,37.0,no education,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,11.4,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,650.0
+800mcg miso SL,26.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,12.8,no,yes,no,no,yes,yes,no,yes,no,no,750.0,good,active bleeding controlled,900.0
+40 IU oxy IV,18.0,primary,married/cohabiting,0.0,housewife,skilled labor,36.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bld not controlled,1500.0
+40 IU oxy IV,23.0,primary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,13.1,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1200.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.7,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1150.0
+800mcg miso SL,21.0,primary,married/cohabiting,1.0,skilled labor,skilled labor,39.0,no,14.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,750.0
+40 IU oxy IV,18.0,primary,single,0.0,unemployed,other,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,950.0
+40 IU oxy IV,16.0,secondary,single,0.0,other,skilled labor,42.0,no,11.6,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,poor,active bld not controlled,1800.0
+800mcg miso SL,28.0,technical,married/cohabiting,1.0,housewife,skilled labor,38.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,34.0,secondary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,12.9,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,24.0,no education,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,750.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,750.0
+800mcg miso SL,19.0,primary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,12.3,no,yes,no,no,yes,yes,no,yes,yes,yes,1100.0,good,active bleeding controlled,1200.0
+800mcg miso SL,17.0,no education,married/cohabiting,0.0,housewife,unemployed,38.0,no,10.9,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,41.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,24.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,24.0,no education,married/cohabiting,3.0,housewife,unskilled labor,41.0,no,8.2,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,23.0,secondary,single,0.0,unemployed,other,39.0,no,8.9,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,780.0
+40 IU oxy IV,22.0,primary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,950.0
+40 IU oxy IV,22.0,university or higher,married/cohabiting,0.0,housewife,skilled labor,39.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,30.0,no education,married/cohabiting,3.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,housewife,salaried professional,38.0,no,9.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,20.0,university or higher,married/cohabiting,0.0,housewife,student,39.0,no,12.6,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,1.0,housewife,skilled labor,42.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,850.0
+40 IU oxy IV,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,21.0,technical,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,11.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,26.0,no education,married/cohabiting,0.0,housewife,other,41.0,no,11.8,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1600.0
+800mcg miso SL,20.0,primary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,9.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,950.0
+800mcg miso SL,21.0,technical,married/cohabiting,2.0,housewife,salaried professional,40.0,no,10.6,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,25.0,no education,married/cohabiting,1.0,housewife,skilled labor,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,950.0
+800mcg miso SL,30.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,10.2,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,19.0,no education,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,33.0,no education,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,26.0,technical,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1150.0
+800mcg miso SL,24.0,technical,married/cohabiting,0.0,housewife,skilled labor,41.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,22.0,secondary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,22.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,800.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,12.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,31.0,no education,married/cohabiting,8.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,850.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,26.0,technical,married/cohabiting,0.0,housewife,other,42.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,900.0
+40 IU oxy IV,25.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,12.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,unskilled labor,skilled labor,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1050.0
+800mcg miso SL,22.0,no education,married/cohabiting,0.0,housewife,skilled labor,38.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,22.0,no education,married/cohabiting,0.0,housewife,salaried professional,39.0,no,12.1,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,32.0,secondary,married/cohabiting,1.0,skilled labor,skilled labor,41.5,no,11.3,no,yes,no,no,no,yes,no,yes,no,yes,800.0,fair,active bleeding controlled,1400.0
+800mcg miso SL,25.0,secondary,single,0.0,housewife,salaried professional,39.0,no,11.9,no,yes,no,no,no,yes,no,yes,yes,yes,1500.0,fair,active bld not controlled,1900.0
+40 IU oxy IV,21.0,no education,married/cohabiting,1.0,housewife,other,40.0,no,10.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,25.0,no education,married/cohabiting,1.0,housewife,skilled labor,39.0,no,13.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,900.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,poor,active bld not controlled,1600.0
+40 IU oxy IV,24.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,20.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,9.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,21.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,24.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,unskilled labor,37.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1500.0
+40 IU oxy IV,18.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1100.0
+40 IU oxy IV,25.0,other,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,29.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,950.0
+40 IU oxy IV,21.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,24.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,9.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,24.0,primary,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,9.4,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,900.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,3.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,920.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,22.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1300.0
+40 IU oxy IV,26.0,no education,married/cohabiting,2.0,housewife,unemployed,40.0,no,12.6,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1400.0
+40 IU oxy IV,26.0,no education,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,27.0,technical,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bld not controlled,850.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,26.0,no education,married/cohabiting,1.0,housewife,skilled labor,39.0,no,11.9,no,yes,no,no,yes,yes,no,yes,yes,yes,500.0,fair,active bleeding controlled,650.0
+800mcg miso SL,25.0,university or higher,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,750.0
+800mcg miso SL,27.0,no education,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,12.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,23.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,25.0,technical,married/cohabiting,2.0,housewife,skilled labor,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,25.0,no education,married/cohabiting,0.0,housewife,other,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,1100.0,good,active bleeding controlled,1800.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,13.0,no,yes,no,no,yes,yes,no,yes,yes,yes,1100.0,fair,active bld not controlled,1500.0
+40 IU oxy IV,24.0,technical,married/cohabiting,1.0,housewife,salaried professional,40.0,no,13.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,24.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,21.0,primary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,25.0,no education,married/cohabiting,1.0,housewife,unskilled labor,39.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,22.0,technical,married/cohabiting,0.0,housewife,skilled labor,41.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,22.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,35.0,technical,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,850.0
+800mcg miso SL,39.0,no education,married/cohabiting,3.0,housewife,skilled labor,39.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,32.0,no education,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,500.0,fair,active bleeding controlled,750.0
+40 IU oxy IV,20.0,primary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,40.0,technical,married/cohabiting,2.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,23.0,no education,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1250.0
+800mcg miso SL,21.0,no education,married/cohabiting,0.0,housewife,skilled labor,37.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,27.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,27.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,21.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,950.0
+800mcg miso SL,27.0,technical,married/cohabiting,4.0,housewife,skilled labor,41.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1100.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,9.7,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bld not controlled,950.0
+800mcg miso SL,27.0,secondary,married/cohabiting,2.0,housewife,salaried professional,38.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,20.0,university or higher,married/cohabiting,0.0,housewife,salaried professional,40.0,no,12.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1050.0
+800mcg miso SL,27.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,26.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1150.0
+40 IU oxy IV,28.0,secondary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,28.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,850.0
+800mcg miso SL,23.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,11.6,no,yes,no,no,no,yes,no,yes,yes,no,750.0,good,active bleeding controlled,780.0
+40 IU oxy IV,27.0,secondary,married/cohabiting,0.0,other,other,39.0,no,10.4,no,yes,no,no,yes,yes,no,yes,yes,yes,1200.0,good,active bleeding controlled,1500.0
+800mcg miso SL,23.0,no education,married/cohabiting,1.0,housewife,other,39.0,no,11.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1600.0
+800mcg miso SL,24.0,technical,married/cohabiting,1.0,housewife,skilled labor,39.0,no,9.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,41.0,no,10.2,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,38.0,no education,married/cohabiting,3.0,housewife,skilled labor,41.0,no,11.6,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,23.0,no education,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,22.0,university or higher,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+800mcg miso SL,22.0,no education,married/cohabiting,1.0,housewife,skilled labor,40.0,no,12.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,21.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,800.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,23.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,25.0,technical,married/cohabiting,1.0,housewife,salaried professional,38.0,no,11.4,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,800.0
+40 IU oxy IV,24.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+800mcg miso SL,27.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,16.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1100.0
+40 IU oxy IV,20.0,technical,married/cohabiting,1.0,housewife,salaried professional,38.0,no,11.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1400.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,salaried professional,42.0,no,12.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,26.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1150.0
+40 IU oxy IV,25.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1100.0
+800mcg miso SL,24.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,750.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.8,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bld not controlled,1800.0
+800mcg miso SL,24.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,38.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,780.0
+800mcg miso SL,26.0,secondary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,780.0
+800mcg miso SL,24.0,primary,married/cohabiting,1.0,housewife,skilled labor,38.0,no,6.7,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,fair,active bld not controlled,1400.0
+800mcg miso SL,29.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,12.9,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1400.0
+800mcg miso SL,23.0,university or higher,married/cohabiting,0.0,student,salaried professional,40.0,no,11.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1600.0
+800mcg miso SL,23.0,no education,married/cohabiting,0.0,housewife,salaried professional,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1200.0
+800mcg miso SL,36.0,no education,married/cohabiting,3.0,housewife,skilled labor,39.0,no,10.6,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1300.0
+800mcg miso SL,23.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+800mcg miso SL,27.0,technical,married/cohabiting,2.0,housewife,salaried professional,38.0,no,9.8,no,no,no,no,yes,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,21.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,800.0
+40 IU oxy IV,17.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,38.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1100.0
+800mcg miso SL,41.0,no education,married/cohabiting,4.0,housewife,skilled labor,39.0,yes,10.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,33.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,900.0
+40 IU oxy IV,34.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,8.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,18.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,37.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,30.0,no education,married/cohabiting,3.0,housewife,skilled labor,39.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,900.0
+800mcg miso SL,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,12.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.8,no,no,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,28.0,no education,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1200.0
+800mcg miso SL,26.0,primary,married/cohabiting,2.0,housewife,skilled labor,37.0,no,9.5,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1000.0
+800mcg miso SL,27.0,secondary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,30.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,900.0
+800mcg miso SL,22.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,780.0
+40 IU oxy IV,21.0,no education,married/cohabiting,0.0,housewife,other,40.0,no,10.8,no,no,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,23.0,no education,married/cohabiting,0.0,housewife,other,41.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1150.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,41.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,500.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,primary,married/cohabiting,1.0,housewife,skilled labor,37.0,no,8.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,790.0
+800mcg miso SL,26.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,21.0,no education,married/cohabiting,0.0,housewife,other,41.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,19.0,no education,married/cohabiting,0.0,housewife,skilled labor,41.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1300.0
+40 IU oxy IV,20.0,no education,married/cohabiting,0.0,housewife,unskilled labor,37.0,no,9.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,24.0,technical,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,10.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,25.0,no education,married/cohabiting,0.0,housewife,salaried professional,42.0,no,10.9,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1050.0
+800mcg miso SL,24.0,university or higher,married/cohabiting,0.0,housewife,salaried professional,37.0,no,10.6,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,28.0,no education,married/cohabiting,0.0,housewife,skilled labor,37.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,30.0,no education,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,24.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.0,no,no,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,22.0,university or higher,married/cohabiting,0.0,housewife,salaried professional,38.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,950.0
+800mcg miso SL,24.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,24.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.6,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,850.0
+800mcg miso SL,29.0,no education,married/cohabiting,2.0,housewife,salaried professional,40.0,no,10.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,26.0,university or higher,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,23.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,950.0
+40 IU oxy IV,24.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,23.0,no education,married/cohabiting,3.0,housewife,skilled labor,38.0,no,12.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,9.3,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,800.0
+40 IU oxy IV,26.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,poor,active bld not controlled,1250.0
+800mcg miso SL,32.0,no education,married/cohabiting,3.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,750.0
+40 IU oxy IV,28.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,36.0,no,10.2,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1150.0
+800mcg miso SL,21.0,no education,married/cohabiting,0.0,housewife,salaried professional,41.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,950.0
+40 IU oxy IV,27.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,12.8,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,900.0
+40 IU oxy IV,18.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1400.0
+800mcg miso SL,21.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,12.3,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,950.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1050.0
+40 IU oxy IV,28.0,no education,married/cohabiting,2.0,housewife,skilled labor,39.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,28.0,technical,married/cohabiting,2.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,24.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,32.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,no,no,no,750.0,good,active bleeding controlled,1100.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.8,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,11.7,no,yes,no,no,yes,yes,no,yes,yes,yes,1200.0,good,active bleeding controlled,1450.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1500.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,12.1,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,850.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,other,39.0,no,7.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1100.0
+800mcg miso SL,37.0,no education,married/cohabiting,3.0,housewife,skilled labor,35.0,no,12.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,19.0,no education,married/cohabiting,0.0,housewife,other,40.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1200.0
+800mcg miso SL,36.0,no education,married/cohabiting,4.0,housewife,skilled labor,41.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,fair,active bld not controlled,1100.0
+800mcg miso SL,21.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,25.0,no education,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,8.9,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,22.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,36.0,technical,married/cohabiting,2.0,housewife,unskilled labor,38.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bld not controlled,1000.0
+40 IU oxy IV,18.0,no education,married/cohabiting,0.0,housewife,unskilled labor,41.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,20.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,35.0,no education,married/cohabiting,4.0,housewife,skilled labor,41.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,35.0,technical,married/cohabiting,2.0,housewife,salaried professional,41.0,no,12.2,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,950.0
+40 IU oxy IV,24.0,primary,married/cohabiting,0.0,housewife,unskilled labor,41.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,24.0,primary,married/cohabiting,1.0,housewife,salaried professional,40.0,no,10.6,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,850.0
+800mcg miso SL,25.0,technical,married/cohabiting,1.0,housewife,salaried professional,41.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.8,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1200.0
+40 IU oxy IV,22.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,850.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,800.0
+40 IU oxy IV,24.0,technical,married/cohabiting,0.0,housewife,skilled labor,30.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1100.0
+40 IU oxy IV,22.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,22.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.4,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,fair,active bleeding controlled,950.0
+800mcg miso SL,40.0,no education,married/cohabiting,6.0,housewife,salaried professional,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,42.0,primary,married/cohabiting,2.0,housewife,salaried professional,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,25.0,secondary,married/cohabiting,1.0,housewife,salaried professional,39.0,no,10.5,no,no,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,38.0,no,9.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,26.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,21.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,19.0,secondary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.1,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1200.0
+800mcg miso SL,17.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,27.0,secondary,married/cohabiting,0.0,housewife,salaried professional,38.0,no,10.3,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bld not controlled,1200.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,9.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,20.0,no education,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,12.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,23.0,technical,married/cohabiting,1.0,housewife,salaried professional,38.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,850.0
+800mcg miso SL,25.0,secondary,married/cohabiting,2.0,housewife,other,40.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,1300.0,good,active bleeding controlled,2050.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,other,39.0,no,14.0,no,yes,no,no,no,yes,no,yes,yes,yes,1050.0,good,active bleeding controlled,1500.0
+800mcg miso SL,24.0,no education,married/cohabiting,2.0,housewife,skilled labor,41.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,950.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,7.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,23.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,8.7,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,other,39.0,no,9.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,22.0,primary,married/cohabiting,0.0,housewife,skilled labor,38.0,no,10.6,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,27.0,technical,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,30.0,secondary,married/cohabiting,3.0,housewife,unskilled labor,41.0,no,11.7,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,41.0,no education,married/cohabiting,3.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,700.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.9,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,34.0,technical,married/cohabiting,2.0,housewife,skilled labor,39.0,no,8.5,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,750.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,750.0
+40 IU oxy IV,22.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,32.0,primary,married/cohabiting,3.0,housewife,salaried professional,40.0,no,10.3,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,850.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,18.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,950.0
+800mcg miso SL,23.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,20.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,13.2,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1100.0
+40 IU oxy IV,30.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,31.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,9.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,23.0,university or higher,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.9,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,fair,active bleeding controlled,1050.0
+40 IU oxy IV,28.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1200.0
+800mcg miso SL,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,10.4,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,900.0
+800mcg miso SL,32.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,27.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1050.0
+40 IU oxy IV,21.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1400.0
+800mcg miso SL,35.0,technical,married/cohabiting,1.0,housewife,salaried professional,39.0,no,10.3,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,700.0
+40 IU oxy IV,20.0,no education,married/cohabiting,1.0,housewife,salaried professional,38.0,no,10.6,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,900.0
+800mcg miso SL,25.0,primary,married/cohabiting,0.0,housewife,skilled labor,38.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,22.0,secondary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,21.0,technical,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,23.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.2,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bld not controlled,850.0
+40 IU oxy IV,18.0,technical,married/cohabiting,1.0,housewife,salaried professional,39.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,29.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,salaried professional,40.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,fair,active bld not controlled,1500.0
+40 IU oxy IV,30.0,technical,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,800.0
+40 IU oxy IV,38.0,technical,married/cohabiting,1.0,housewife,skilled labor,38.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+800mcg miso SL,23.0,technical,married/cohabiting,1.0,housewife,salaried professional,40.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,950.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,14.6,no,yes,no,no,no,yes,no,yes,yes,yes,1800.0,good,active bleeding controlled,1900.0
+800mcg miso SL,20.0,secondary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,950.0,good,active bleeding controlled,1600.0
+800mcg miso SL,18.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,1300.0,good,active bleeding controlled,1450.0
+40 IU oxy IV,30.0,no education,married/cohabiting,2.0,housewife,unskilled labor,38.0,no,11.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1600.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,1.0,housewife,skilled labor,41.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,950.0
+40 IU oxy IV,23.0,no education,married/cohabiting,0.0,housewife,unskilled labor,37.0,no,13.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,800.0
+800mcg miso SL,23.0,university or higher,married/cohabiting,1.0,housewife,other,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,700.0
+40 IU oxy IV,20.0,technical,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,25.0,no education,married/cohabiting,1.0,housewife,other,40.0,no,13.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,950.0
+40 IU oxy IV,25.0,university or higher,married/cohabiting,0.0,housewife,salaried professional,39.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,30.0,no education,married/cohabiting,3.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,30.0,university or higher,married/cohabiting,1.0,housewife,unskilled labor,39.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,550.0,good,active bleeding controlled,700.0
+40 IU oxy IV,25.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,13.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,university or higher,married/cohabiting,1.0,housewife,salaried professional,39.0,no,12.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1200.0
+800mcg miso SL,21.0,technical,married/cohabiting,0.0,housewife,skilled labor,41.0,no,11.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,41.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,27.0,no education,married/cohabiting,2.0,housewife,skilled labor,40.0,no,11.7,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+40 IU oxy IV,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,900.0
+800mcg miso SL,25.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,38.0,no education,married/cohabiting,3.0,housewife,unskilled labor,40.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1300.0
+40 IU oxy IV,35.0,technical,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,13.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,27.0,technical,married/cohabiting,1.0,housewife,skilled labor,39.0,no,10.5,no,no,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1300.0
+40 IU oxy IV,23.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1250.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,800.0
+40 IU oxy IV,22.0,primary,married/cohabiting,2.0,housewife,skilled labor,40.0,no,12.5,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,fair,active bld not controlled,1100.0
+800mcg miso SL,26.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,28.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,20.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,22.0,technical,married/cohabiting,1.0,housewife,salaried professional,40.0,no,10.4,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,1050.0
+800mcg miso SL,31.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,30.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1700.0
+40 IU oxy IV,25.0,university or higher,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1100.0
+800mcg miso SL,20.0,technical,married/cohabiting,3.0,housewife,salaried professional,40.0,no,10.3,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1000.0
+800mcg miso SL,25.0,primary,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,9.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,950.0
+800mcg miso SL,26.0,secondary,married/cohabiting,2.0,housewife,salaried professional,40.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+800mcg miso SL,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,950.0
+800mcg miso SL,25.0,no education,married/cohabiting,1.0,housewife,unskilled labor,39.0,yes,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1400.0
+40 IU oxy IV,21.0,technical,married/cohabiting,1.0,housewife,skilled labor,41.0,no,12.3,no,yes,no,no,yes,yes,no,yes,yes,yes,500.0,good,active bleeding controlled,650.0
+800mcg miso SL,22.0,no education,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,950.0
+800mcg miso SL,31.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,37.0,no,9.9,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,750.0
+40 IU oxy IV,28.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.6,no,yes,no,yes,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,25.0,university or higher,married/cohabiting,0.0,housewife,salaried professional,41.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,500.0,fair,active bleeding controlled,800.0
+800mcg miso SL,30.0,no education,married/cohabiting,1.0,housewife,skilled labor,38.0,no,10.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,20.0,no education,married/cohabiting,2.0,housewife,unskilled labor,39.0,no,9.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,18.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,25.0,other,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,29.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1050.0
+40 IU oxy IV,24.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,29.0,technical,married/cohabiting,0.0,housewife,salaried professional,41.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,13.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1200.0
+40 IU oxy IV,25.0,university or higher,married/cohabiting,1.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,24.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,28.0,no education,married/cohabiting,1.0,housewife,unemployed,42.0,no,9.9,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1300.0
+40 IU oxy IV,30.0,technical,married/cohabiting,1.0,housewife,salaried professional,40.0,no,10.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,37.0,no education,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,26.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,12.5,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,850.0
+40 IU oxy IV,22.0,no education,married/cohabiting,1.0,housewife,skilled labor,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.0,no,no,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1300.0
+40 IU oxy IV,27.0,no education,married/cohabiting,2.0,housewife,skilled labor,37.0,no,10.6,no,no,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,28.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,11.7,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,21.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,25.0,primary,married/cohabiting,1.0,housewife,skilled labor,36.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,9.3,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,1300.0
+800mcg miso SL,24.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.7,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,750.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.1,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,1050.0
+800mcg miso SL,23.0,primary,married/cohabiting,0.0,housewife,skilled labor,37.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,30.0,university or higher,married/cohabiting,0.0,housewife,other,38.0,no,10.7,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,27.0,no education,married/cohabiting,0.0,housewife,skilled labor,41.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,yes,850.0,good,active bld not controlled,1250.0
+40 IU oxy IV,21.0,no education,married/cohabiting,0.0,housewife,other,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,28.0,no education,married/cohabiting,3.0,housewife,skilled labor,40.0,yes,8.1,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,23.0,no education,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+40 IU oxy IV,20.0,secondary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,9.8,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,950.0
+800mcg miso SL,30.0,no education,married/cohabiting,2.0,housewife,unemployed,39.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1250.0
+800mcg miso SL,24.0,no education,married/cohabiting,0.0,housewife,salaried professional,39.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,800.0
+40 IU oxy IV,22.0,no education,married/cohabiting,1.0,housewife,salaried professional,38.0,no,13.2,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,25.0,no education,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,950.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,unskilled labor,41.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,34.0,primary,married/cohabiting,1.0,housewife,skilled labor,38.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1700.0
+40 IU oxy IV,18.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,9.7,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1500.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,28.0,primary,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,13.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1500.0
+800mcg miso SL,18.0,secondary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.2,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,900.0
+800mcg miso SL,23.0,no education,married/cohabiting,1.0,housewife,unskilled labor,39.0,no,7.5,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,fair,active bld not controlled,1100.0
+40 IU oxy IV,22.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,21.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.4,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,650.0
+40 IU oxy IV,22.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,33.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,19.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,23.0,other,married/cohabiting,0.0,housewife,skilled labor,41.0,no,12.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1200.0
+40 IU oxy IV,24.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,24.0,no education,married/cohabiting,1.0,housewife,skilled labor,41.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,30.0,technical,married/cohabiting,1.0,housewife,skilled labor,38.0,no,11.7,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1000.0
+800mcg miso SL,25.0,no education,married/cohabiting,4.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,950.0
+800mcg miso SL,35.0,secondary,married/cohabiting,2.0,housewife,salaried professional,41.0,no,10.4,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1650.0
+40 IU oxy IV,28.0,no education,married/cohabiting,2.0,housewife,skilled labor,42.0,no,8.0,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1150.0
+40 IU oxy IV,38.0,technical,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,24.0,technical,married/cohabiting,0.0,housewife,salaried professional,37.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,fair,active bld not controlled,1600.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,10.9,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,9.3,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,800.0
+800mcg miso SL,23.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,23.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+40 IU oxy IV,23.0,primary,married/cohabiting,0.0,housewife,skilled labor,38.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,800.0
+800mcg miso SL,24.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1050.0
+800mcg miso SL,21.0,primary,married/cohabiting,2.0,housewife,unskilled labor,39.0,no,10.2,no,yes,no,no,no,yes,no,yes,yes,yes,780.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,19.0,no education,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,10.4,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,skilled labor,37.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,12.0,no,no,no,no,yes,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,850.0
+40 IU oxy IV,30.0,no education,married/cohabiting,1.0,housewife,unskilled labor,42.0,yes,10.0,no,yes,no,yes,yes,yes,no,yes,yes,yes,750.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,other,other,41.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,17.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,15.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,750.0
+800mcg miso SL,27.0,no education,married/cohabiting,0.0,housewife,other,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,37.0,no,11.7,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,800.0
+800mcg miso SL,21.0,no education,married/cohabiting,0.0,housewife,salaried professional,40.0,no,8.5,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,22.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,fair,active bleeding controlled,1200.0
+40 IU oxy IV,22.0,no education,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,9.5,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1050.0
+800mcg miso SL,31.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,25.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,9.7,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1000.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1400.0
+40 IU oxy IV,35.0,technical,married/cohabiting,1.0,housewife,salaried professional,41.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1200.0
+40 IU oxy IV,27.0,no education,married/cohabiting,0.0,housewife,other,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,24.0,primary,married/cohabiting,1.0,housewife,unskilled labor,39.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,25.0,no education,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,750.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1050.0
+40 IU oxy IV,24.0,no education,married/cohabiting,1.0,housewife,skilled labor,40.0,no,9.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,25.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1400.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,12.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,800.0
+800mcg miso SL,25.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1050.0
+40 IU oxy IV,19.0,no education,married/cohabiting,1.0,housewife,skilled labor,39.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,salaried professional,39.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1050.0
+40 IU oxy IV,18.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,21.0,primary,married/cohabiting,0.0,housewife,skilled labor,38.0,no,9.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,28.0,primary,married/cohabiting,1.0,housewife,skilled labor,38.0,no,10.8,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bld not controlled,1000.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,12.3,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,26.0,other,married/cohabiting,0.0,housewife,skilled labor,38.0,no,10.5,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,24.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,25.0,technical,married/cohabiting,1.0,housewife,salaried professional,38.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1200.0
+800mcg miso SL,20.0,technical,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,38.0,technical,married/cohabiting,3.0,housewife,salaried professional,39.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,550.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,27.0,primary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,12.7,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+40 IU oxy IV,26.0,primary,married/cohabiting,2.0,housewife,other,39.0,yes,12.4,no,yes,no,no,no,yes,no,yes,yes,yes,850.0,good,active bleeding controlled,1150.0
+800mcg miso SL,26.0,no education,married/cohabiting,2.0,housewife,unskilled labor,40.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,20.0,secondary,married/cohabiting,0.0,housewife,other,42.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,21.0,no education,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,7.8,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,20.0,no education,married/cohabiting,0.0,housewife,unskilled labor,41.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,950.0
+800mcg miso SL,29.0,no education,married/cohabiting,2.0,housewife,skilled labor,42.0,yes,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1800.0
+800mcg miso SL,22.0,secondary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,22.0,technical,married/cohabiting,0.0,housewife,skilled labor,41.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,21.0,no education,married/cohabiting,0.0,housewife,unemployed,40.0,no,12.8,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,22.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,11.8,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,26.0,technical,married/cohabiting,4.0,housewife,skilled labor,40.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,23.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,12.3,no,yes,no,no,yes,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,29.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,21.0,no education,married/cohabiting,1.0,housewife,salaried professional,40.0,no,8.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.1,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,12.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,20.0,technical,married/cohabiting,1.0,housewife,salaried professional,41.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,750.0
+40 IU oxy IV,26.0,technical,married/cohabiting,1.0,housewife,skilled labor,38.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,800.0
+800mcg miso SL,19.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,600.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,24.0,other,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,28.0,technical,married/cohabiting,3.0,housewife,salaried professional,38.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,22.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,19.0,no education,married/cohabiting,0.0,housewife,skilled labor,37.0,no,7.5,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,750.0
+800mcg miso SL,20.0,secondary,married/cohabiting,1.0,housewife,salaried professional,38.0,no,11.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,26.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bld not controlled,1100.0
+800mcg miso SL,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,24.0,technical,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1400.0
+800mcg miso SL,32.0,technical,married/cohabiting,0.0,housewife,skilled labor,38.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,19.0,technical,married/cohabiting,0.0,housewife,salaried professional,43.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,20.0,secondary,married/cohabiting,1.0,housewife,skilled labor,38.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bld not controlled,900.0
+40 IU oxy IV,35.0,technical,married/cohabiting,0.0,housewife,salaried professional,39.0,no,11.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,23.0,technical,married/cohabiting,1.0,housewife,salaried professional,39.0,no,11.3,no,no,no,no,no,yes,no,yes,yes,yes,700.0,good,active bld not controlled,850.0
+40 IU oxy IV,25.0,primary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.2,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,good,active bleeding controlled,1100.0
+800mcg miso SL,24.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,23.0,technical,married/cohabiting,0.0,housewife,salaried professional,37.0,no,10.4,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,28.0,technical,married/cohabiting,1.0,housewife,skilled labor,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,21.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,8.4,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,900.0
+40 IU oxy IV,30.0,secondary,married/cohabiting,1.0,housewife,salaried professional,40.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,850.0
+40 IU oxy IV,28.0,no education,married/cohabiting,1.0,housewife,salaried professional,39.0,no,10.2,no,yes,no,no,no,yes,no,yes,yes,yes,650.0,fair,active bleeding controlled,1000.0
+800mcg miso SL,25.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,30.0,secondary,married/cohabiting,2.0,housewife,skilled labor,40.0,no,10.2,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,30.0,technical,married/cohabiting,0.0,housewife,salaried professional,38.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1050.0
+40 IU oxy IV,32.0,university or higher,married/cohabiting,0.0,other,skilled labor,38.0,no,13.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+800mcg miso SL,31.0,technical,married/cohabiting,1.0,housewife,skilled labor,35.0,no,10.3,no,no,no,no,yes,yes,no,yes,yes,yes,1000.0,fair,active bld not controlled,1500.0
+40 IU oxy IV,22.0,technical,married/cohabiting,1.0,housewife,skilled labor,38.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,800.0
+800mcg miso SL,22.0,primary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,12.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,27.0,secondary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,fair,active bleeding controlled,1250.0
+40 IU oxy IV,25.0,technical,married/cohabiting,0.0,housewife,salaried professional,40.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+800mcg miso SL,18.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,800.0
+40 IU oxy IV,29.0,technical,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,11.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,25.0,primary,married/cohabiting,1.0,housewife,unskilled labor,39.0,no,13.0,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,16.0,no education,married/cohabiting,0.0,housewife,other,39.0,no,10.2,no,yes,no,no,no,yes,no,yes,yes,yes,950.0,good,active bld not controlled,1200.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,0.0,salaried professional,salaried professional,40.0,no,12.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1700.0
+40 IU oxy IV,33.0,no education,married/cohabiting,2.0,housewife,salaried professional,40.0,no,12.7,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bld not controlled,1200.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,housewife,other,42.0,no,11.3,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+40 IU oxy IV,21.0,technical,married/cohabiting,0.0,housewife,skilled labor,40.0,no,9.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,30.0,no education,married/cohabiting,1.0,housewife,unskilled labor,40.0,no,9.2,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,20.0,technical,married/cohabiting,1.0,housewife,skilled labor,38.0,no,12.1,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bld not controlled,850.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.6,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,20.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.5,no,yes,no,no,yes,yes,no,yes,yes,yes,550.0,fair,active bleeding controlled,800.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,38.0,no,13.5,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,1200.0
+800mcg miso SL,30.0,secondary,married/cohabiting,2.0,salaried professional,salaried professional,40.0,no,10.1,no,yes,no,no,no,yes,no,yes,yes,yes,1250.0,good,active bleeding controlled,1350.0
+40 IU oxy IV,28.0,technical,married/cohabiting,0.0,housewife,other,38.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,24.0,no education,married/cohabiting,2.0,housewife,other,41.0,no,11.5,no,yes,no,no,yes,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,850.0
+800mcg miso SL,27.0,technical,married/cohabiting,2.0,housewife,skilled labor,39.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,850.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,1000.0
+40 IU oxy IV,22.0,technical,married/cohabiting,0.0,unskilled labor,unskilled labor,40.0,no,13.8,no,yes,no,no,yes,yes,no,yes,no,no,1050.0,good,active bleeding controlled,1600.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,9.5,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,950.0
+800mcg miso SL,37.0,primary,married/cohabiting,2.0,housewife,skilled labor,40.0,no,10.6,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1050.0
+800mcg miso SL,20.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,9.4,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1000.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,housewife,salaried professional,41.0,no,10.9,no,yes,no,no,yes,yes,no,yes,no,no,800.0,fair,active bleeding controlled,1100.0
+800mcg miso SL,25.0,primary,married/cohabiting,3.0,housewife,unskilled labor,40.0,no,15.1,no,yes,no,no,yes,yes,no,yes,no,no,750.0,good,active bleeding controlled,850.0
+800mcg miso SL,22.0,technical,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,11.8,no,yes,no,no,yes,yes,no,yes,no,no,750.0,good,active bleeding controlled,1150.0
+800mcg miso SL,23.0,no education,married/cohabiting,1.0,housewife,salaried professional,38.0,no,10.4,no,yes,no,no,yes,yes,no,yes,yes,yes,650.0,good,active bleeding controlled,900.0
+800mcg miso SL,25.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,40.0,no,9.5,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+800mcg miso SL,24.0,no education,married/cohabiting,0.0,housewife,salaried professional,39.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,27.0,no education,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.0,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1000.0
+800mcg miso SL,45.0,no education,married/cohabiting,3.0,housewife,salaried professional,36.0,no,8.1,no,yes,no,no,yes,yes,no,yes,no,no,850.0,fair,active bleeding controlled,1100.0
+40 IU oxy IV,22.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.6,no,yes,no,no,yes,yes,no,yes,no,no,1100.0,good,active bleeding controlled,1650.0
+800mcg miso SL,24.0,primary,married/cohabiting,3.0,housewife,unskilled labor,40.0,no,10.1,no,yes,no,no,yes,yes,no,yes,no,no,950.0,good,active bleeding controlled,1400.0
+40 IU oxy IV,28.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,13.5,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1250.0
+800mcg miso SL,24.0,primary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,13.4,no,yes,no,no,no,yes,no,yes,no,no,850.0,good,active bleeding controlled,1150.0
+800mcg miso SL,20.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,41.0,no,11.5,no,yes,no,no,yes,yes,no,yes,no,no,750.0,good,active bleeding controlled,1150.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,10.5,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,850.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,0.0,housewife,unemployed,39.0,no,13.0,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,39.0,primary,married/cohabiting,3.0,housewife,unskilled labor,40.0,no,12.8,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,900.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.8,no,yes,no,no,yes,yes,no,yes,no,no,750.0,good,active bleeding controlled,1600.0
+800mcg miso SL,26.0,secondary,married/cohabiting,1.0,salaried professional,unskilled labor,37.0,no,12.4,no,yes,no,no,yes,yes,no,yes,no,no,950.0,fair,active bleeding controlled,1600.0
+40 IU oxy IV,30.0,primary,married/cohabiting,1.0,housewife,salaried professional,41.0,no,10.9,no,yes,no,no,yes,yes,no,yes,no,no,750.0,good,active bleeding controlled,1000.0
+800mcg miso SL,35.0,primary,married/cohabiting,1.0,housewife,salaried professional,39.0,no,12.5,no,yes,no,no,yes,yes,no,yes,no,no,750.0,fair,active bleeding controlled,850.0
+800mcg miso SL,20.0,primary,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,11.9,no,yes,no,no,yes,yes,no,yes,no,no,750.0,fair,active bleeding controlled,1250.0
+40 IU oxy IV,26.0,university or higher,married/cohabiting,0.0,salaried professional,salaried professional,40.0,no,13.0,no,yes,no,no,yes,yes,no,yes,no,no,1000.0,fair,active bleeding controlled,1850.0
+800mcg miso SL,26.0,secondary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,12.4,no,yes,no,no,yes,yes,yes,yes,no,no,700.0,good,active bleeding controlled,1150.0
+800mcg miso SL,26.0,primary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,11.6,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,1100.0
+800mcg miso SL,40.0,secondary,married/cohabiting,1.0,housewife,salaried professional,40.0,no,12.2,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,28.0,primary,married/cohabiting,3.0,housewife,unskilled labor,38.0,no,9.1,no,yes,no,no,no,yes,no,yes,no,no,850.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,23.0,secondary,married/cohabiting,0.0,unskilled labor,skilled labor,37.0,no,14.2,no,yes,no,no,yes,yes,no,yes,no,no,850.0,good,active bleeding controlled,1150.0
+40 IU oxy IV,39.0,primary,married/cohabiting,2.0,housewife,skilled labor,42.0,no,12.2,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,27.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,39.0,no,10.2,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,11.3,no,yes,no,no,yes,yes,no,yes,no,no,900.0,good,active bleeding controlled,1150.0
+800mcg miso SL,22.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,14.2,no,yes,no,no,yes,yes,no,yes,no,no,800.0,fair,active bleeding controlled,1600.0
+40 IU oxy IV,20.0,secondary,married/cohabiting,1.0,housewife,unskilled labor,41.0,no,10.8,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1100.0
+800mcg miso SL,26.0,primary,married/cohabiting,0.0,housewife,salaried professional,40.0,no,10.3,no,yes,no,no,yes,yes,no,yes,no,no,750.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,21.0,primary,married/cohabiting,0.0,housewife,skilled labor,38.0,no,11.2,no,yes,no,no,yes,yes,no,yes,no,no,650.0,fair,active bleeding controlled,800.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,39.0,no,11.2,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,26.0,secondary,married/cohabiting,1.0,housewife,skilled labor,40.0,no,11.8,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bld not controlled,1800.0
+40 IU oxy IV,19.0,primary,married/cohabiting,0.0,housewife,salaried professional,37.0,no,14.0,no,yes,no,no,yes,yes,no,yes,no,no,850.0,good,active bleeding controlled,1050.0
+40 IU oxy IV,18.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,9.4,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1150.0
+40 IU oxy IV,26.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,10.9,no,yes,no,no,yes,yes,no,yes,no,no,650.0,good,active bleeding controlled,900.0
+800mcg miso SL,19.0,secondary,married/cohabiting,1.0,housewife,salaried professional,39.0,no,12.1,no,yes,no,no,yes,yes,no,yes,no,no,850.0,fair,active bleeding controlled,1550.0
+800mcg miso SL,20.0,secondary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,13.4,no,yes,no,no,yes,yes,no,yes,no,no,650.0,good,active bleeding controlled,950.0
+40 IU oxy IV,25.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.3,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,23.0,primary,married/cohabiting,0.0,housewife,skilled labor,36.0,no,13.1,no,yes,no,no,yes,yes,no,yes,no,no,750.0,fair,active bld not controlled,1600.0
+800mcg miso SL,26.0,secondary,married/cohabiting,1.0,housewife,skilled labor,37.0,no,12.0,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,24.0,university or higher,married/cohabiting,0.0,salaried professional,salaried professional,37.0,no,7.9,no,yes,no,no,yes,yes,no,yes,no,no,750.0,good,active bleeding controlled,1200.0
+800mcg miso SL,24.0,primary,married/cohabiting,0.0,housewife,skilled labor,39.0,no,10.6,no,yes,no,no,yes,yes,no,yes,no,no,1000.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,housewife,skilled labor,41.0,no,10.2,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,33.0,primary,married/cohabiting,2.0,housewife,unskilled labor,36.0,no,12.8,no,yes,no,no,no,yes,no,yes,no,no,800.0,good,active bleeding controlled,1350.0
+800mcg miso SL,27.0,primary,married/cohabiting,0.0,housewife,skilled labor,38.0,no,11.0,no,yes,no,no,no,yes,no,yes,no,no,750.0,good,active bleeding controlled,1100.0
+40 IU oxy IV,28.0,technical,married/cohabiting,0.0,housewife,skilled labor,41.0,no,10.1,no,yes,no,no,yes,yes,no,yes,no,no,600.0,good,active bleeding controlled,800.0
+40 IU oxy IV,26.0,secondary,married/cohabiting,0.0,skilled labor,salaried professional,40.0,no,13.1,no,yes,no,no,yes,yes,no,yes,no,no,700.0,good,active bleeding controlled,1000.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,housewife,salaried professional,39.0,no,9.2,no,yes,no,no,yes,yes,no,yes,no,no,800.0,good,active bleeding controlled,2000.0
+800mcg miso SL,28.0,primary,married/cohabiting,1.0,housewife,skilled labor,37.0,no,12.2,no,yes,no,no,yes,yes,no,yes,no,no,550.0,good,active bleeding controlled,900.0
+800mcg miso SL,28.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,38.0,no,12.0,no,yes,no,no,no,yes,no,yes,no,no,550.0,good,active bleeding controlled,800.0
+800mcg miso SL,19.0,primary,married/cohabiting,0.0,housewife,skilled labor,40.0,no,13.2,no,yes,no,no,yes,yes,no,yes,yes,no,650.0,good,active bleeding controlled,1400.0
+800mcg miso SL,20.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,12.8,no,yes,no,no,yes,yes,no,yes,yes,no,600.0,good,active bld not controlled,1700.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,13.4,no,yes,no,no,yes,yes,no,yes,yes,no,750.0,good,active bleeding controlled,1000.0
+800mcg miso SL,24.0,no education,married/cohabiting,0.0,housewife,skilled labor,41.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1100.0
+800mcg miso SL,21.0,secondary,married/cohabiting,0.0,housewife,skilled labor,37.0,no,10.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,29.0,no education,married/cohabiting,1.0,housewife,skilled labor,40.0,no,10.9,no,yes,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,20.0,technical,married/cohabiting,0.0,housewife,unskilled labor,36.0,no,9.7,no,no,no,no,yes,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,800.0
+800mcg miso SL,24.0,no education,married/cohabiting,1.0,housewife,unskilled labor,38.0,no,11.4,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,fair,active bld not controlled,1600.0
+40 IU oxy IV,24.0,primary,married/cohabiting,1.0,unskilled labor,skilled labor,40.0,no,11.2,no,yes,no,no,no,yes,no,yes,no,no,700.0,good,active bleeding controlled,780.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,unskilled labor,skilled labor,40.0,no,13.9,no,yes,no,no,no,yes,no,no,no,no,700.0,good,active bleeding controlled,900.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,skilled labor,unskilled labor,41.5,no,14.0,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,800.0
+800mcg miso SL,21.0,technical,married/cohabiting,0.0,housewife,unemployed,40.0,no,11.0,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,fair,active bleeding controlled,900.0
+40 IU oxy IV,22.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,38.0,no,11.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,780.0
+40 IU oxy IV,32.0,technical,married/cohabiting,2.0,housewife,salaried professional,40.0,no,10.8,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,poor,active bld not controlled,1200.0
+40 IU oxy IV,21.0,secondary,married/cohabiting,0.0,unskilled labor,unskilled labor,38.5,no,9.6,no,yes,no,no,no,yes,no,yes,yes,no,650.0,good,active bld not controlled,1300.0
+800mcg miso SL,25.0,primary,married/cohabiting,0.0,skilled labor,skilled labor,41.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,fair,active bleeding controlled,800.0
+800mcg miso SL,23.0,secondary,married/cohabiting,0.0,housewife,unskilled labor,41.0,no,12.5,no,yes,no,no,no,yes,no,yes,yes,no,700.0,good,active bleeding controlled,750.0
+800mcg miso SL,19.0,primary,married/cohabiting,0.0,housewife,other,40.0,no,10.3,no,yes,no,no,no,yes,no,yes,yes,yes,900.0,good,active bleeding controlled,1550.0
+40 IU oxy IV,22.0,no education,married/cohabiting,1.0,housewife,other,39.0,no,12.4,no,yes,no,no,no,yes,no,yes,yes,yes,950.0,good,active bleeding controlled,1100.0
+800mcg miso SL,43.0,secondary,married/cohabiting,2.0,salaried professional,salaried professional,40.0,no,10.6,no,yes,no,no,no,yes,no,yes,yes,yes,800.0,deceased,active bld not controlled,1200.0
+800mcg miso SL,22.0,primary,married/cohabiting,0.0,housewife,other,39.0,no,11.6,no,yes,no,no,no,yes,no,yes,yes,yes,750.0,good,active bleeding controlled,850.0
+40 IU oxy IV,17.0,no education,married/cohabiting,0.0,housewife,unskilled labor,40.0,no,10.4,no,yes,no,no,yes,yes,no,yes,yes,yes,800.0,fair,active bld not controlled,1600.0
+40 IU oxy IV,26.0,secondary,married/cohabiting,0.0,other,salaried professional,39.0,no,11.3,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1200.0
+40 IU oxy IV,36.0,no education,married/cohabiting,4.0,housewife,unskilled labor,40.0,yes,9.2,no,yes,no,no,no,yes,no,yes,yes,yes,700.0,good,active bleeding controlled,1050.0
