@@ -1,0 +1,30 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+graph [ranksep=equally, splines=polyline] ;
+edge [fontname="helvetica"] ;
+0 [label="X10 <= -0.993\nsamples = 200\nvalue = [0.073]", fillcolor="#399de5"] ;
+1 [label="samples = 20\nvalue = [0.144]\nTreatment = txtarm_2", fillcolor="#399de5"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="X10 <= 1.04\nsamples = 180\nvalue = [0.065]", fillcolor="#399de5"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="X4 <= -0.939\nsamples = 152\nvalue = [0.082]", fillcolor="#399de5"] ;
+2 -> 3 ;
+4 [label="samples = 45\nvalue = [0.094]\nTreatment = txtarm_2", fillcolor="#399de5"] ;
+3 -> 4 ;
+5 [label="X1 <= -0.826\nsamples = 107\nvalue = [0.076]", fillcolor="#399de5"] ;
+3 -> 5 ;
+6 [label="samples = 20\nvalue = [0.049]\nTreatment = txtarm_2", fillcolor="#399de5"] ;
+5 -> 6 ;
+7 [label="samples = 87\nvalue = [0.083]\nTreatment = txtarm_2", fillcolor="#399de5"] ;
+5 -> 7 ;
+8 [label="samples = 28\nvalue = [-0.025]\nTreatment = None", fillcolor="#e58139"] ;
+2 -> 8 ;
+labelloc="t"; 
+label="Average policy gains over no treatment: 0.075 
+Average policy gains over constant treatment policies for each treatment: [0.075 0.05 ]"; 
+{rank=same ; 0} ;
+{rank=same ; 2} ;
+{rank=same ; 3} ;
+{rank=same ; 5} ;
+{rank=same ; 1; 4; 6; 7; 8} ;
+}
